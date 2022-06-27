@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AzureSearch.BulkInsert
+build_property.ProjectDir = c:\Users\lexmi\OneDrive\Escritorio\search-website\bulk-insert\

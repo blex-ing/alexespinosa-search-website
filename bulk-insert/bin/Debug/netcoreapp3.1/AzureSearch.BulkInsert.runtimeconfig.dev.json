@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lexmi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lexmi\\.nuget\\packages"
+    ]
+  }
+}
